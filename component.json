@@ -1,0 +1,14 @@
+{
+  "name": "morpheus",
+  "repo": "threepointone/morpheus",
+  "description": "ded/morpheus",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "morpheus.js"
+  ]
+}
